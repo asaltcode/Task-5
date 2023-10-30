@@ -1,0 +1,32 @@
+
+{
+    "basics": {
+      "name": "Elangovan R",
+      "label": "Programmer",
+      "email": "asaltcode@gmail.com",
+      "phone": "91+ 9940744513",
+      "location": {
+        "address": "2712 Broadway St",
+        "postalCode": "maiyanur 605801",
+        "city": "Kallakurichi",
+        "countryCode": "IN",
+        "region": "Porpalampattu"
+      },
+
+      "profiles": [{
+        "network": "Github",
+        "username": "asaltcode",
+        "url": "https://github.com/asaltcode"
+      }]
+    },
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }]
+  }
+
